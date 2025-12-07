@@ -1,4 +1,4 @@
-# HealthMate – Personal Health Tracker App 💪🏃‍♀️💧
+# HealthMate – Personal Health Tracker App
 
 <div align="center">
 
@@ -15,30 +15,30 @@ A modern, feature-rich Flutter mobile application for tracking daily health acti
 
 ---
 
-## 📱 About
+##  About
 
 HealthMate is a cross-platform mobile application built with Flutter that helps users maintain a healthy lifestyle by tracking their daily health metrics. The app uses SQLite for local data persistence and Provider for state management, following clean architecture principles.
 
-## ✨ Features
+##  Features
 
-- ✅ **Track Daily Activities**: Record steps walked, calories burned, and water intake
-- 📊 **Dashboard Summary**: View today's health metrics at a glance
-- 📝 **Manage Records**: Full CRUD operations (Create, Read, Update, Delete)
-- 🔍 **Search by Date**: Filter health records by specific dates
-- 🎨 **Dark Blue Theme**: Modern, professional UI with color-coded metrics
-- 💾 **Offline Storage**: All data stored locally using SQLite
-- 📱 **Material Design**: Follows Material Design 3 guidelines
-- ✏️ **Form Validation**: Input validation with helpful error messages
-- 🗑️ **Swipe to Delete**: Easy record deletion with confirmation dialog
-- 🔄 **Pull to Refresh**: Refresh records list with a simple gesture
+-  Track Daily Activities**: Record steps walked, calories burned, and water intake
+-  Dashboard Summary**: View today's health metrics at a glance
+- Manage Records**: Full CRUD operations (Create, Read, Update, Delete)
+- Search by Date**: Filter health records by specific dates
+- Dark Blue Theme**: Modern, professional UI with color-coded metrics
+- Offline Storage**: All data stored locally using SQLite
+- Material Design**: Follows Material Design 3 guidelines
+- Form Validation**: Input validation with helpful error messages
+- Swipe to Delete**: Easy record deletion with confirmation dialog
+- Pull to Refresh**: Refresh records list with a simple gesture
 
-## 🎯 Color-Coded Metrics
+##  Color-Coded Metrics
 
-- 🟢 **Steps**: Green - Track your daily movement goals
-- 🟠 **Calories**: Orange - Monitor calories burned
-- 🔵 **Water**: Blue - Stay hydrated with water intake tracking
+- Steps: Green - Track your daily movement goals
+- Calories: Orange - Monitor calories burned
+- Water: Blue - Stay hydrated with water intake tracking
 
-## 📸 Screenshots
+ Screenshots
 
 > Dashboard • Records List • Add/Edit Record
 
@@ -67,9 +67,9 @@ lib/
         └── widgets/
             ├── summary_card.dart
             └── record_list_item.dart
-```
 
-## 🛠️ Tech Stack
+
+ Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
